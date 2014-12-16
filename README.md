@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-Just another repository
+Hi People,
+Just Doing the tutorial.
+Nothing to see here.
+Move along.
